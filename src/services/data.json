@@ -1,0 +1,38 @@
+{
+    "proteinas": [
+        "Carne de res",
+        "Carne en bisteck",
+        "Pechuga de pollo asada",
+        "Pechuga de pollo con champiñones",
+        "Pierna pernil con champiñones",
+        "Pollo sudado",
+        "Pollo frito (freidora)",
+        "Asado en freidora (carne, pollo, chunchullo, chicharron, chorizo)",
+        "Higado encebollado",
+        "Milanesa de cerdo asada",
+        "Chicharron",
+        "Mojarra",
+        "Bagre",
+        "Carne molida"
+    ],
+    "carboidratos": [
+        "Lentejas",
+        "Frijoles",
+        "Papa enchupe",
+        "Garbanzos",
+        "Pasta espagueti"
+    ],
+    "acompañantes": [
+        "Plantano",
+        "Papa"
+    ],
+    "ensaladas": [],
+    "Platos integrales": [
+        "Arroz con pollo",
+        "Ajiaco",
+        "Sancocho trifásico",
+        "Arroz con camarones",
+        "Sopa de coli",
+        "Bandeja paisa"
+    ]
+}
