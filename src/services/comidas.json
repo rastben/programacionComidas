@@ -26,7 +26,13 @@
         "Plantano",
         "Papa"
     ],
-    "ensaladas": [],
+    "ensaladas": [
+        "Roja",
+        "Verde",
+        "Arveja",
+        "Dulce",
+        "Papa"
+    ],
     "Platos integrales": [
         "Arroz con pollo",
         "Ajiaco",
