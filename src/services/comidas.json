@@ -5,9 +5,8 @@
         "Pechuga de pollo asada",
         "Pechuga de pollo con champiñones",
         "Pierna pernil con champiñones",
-        "Pollo sudado",
+        "Pollo en salsa",
         "Pollo frito (freidora)",
-        "Asado en freidora (carne, pollo, chunchullo, chicharron, chorizo)",
         "Higado encebollado",
         "Milanesa de cerdo asada",
         "Chicharron",
@@ -15,12 +14,13 @@
         "Bagre",
         "Carne molida"
     ],
-    "carboidratos": [
+    "carbohidratos": [
         "Lentejas",
         "Frijoles",
         "Papa enchupe",
         "Garbanzos",
-        "Pasta espagueti"
+        "Pasta espagueti",
+        "Verdura caliente"
     ],
     "acompañantes": [
         "Plantano",
@@ -33,12 +33,14 @@
         "Dulce",
         "Papa"
     ],
-    "Platos integrales": [
+    "platosCompletos": [
         "Arroz con pollo",
         "Ajiaco",
         "Sancocho trifásico",
         "Arroz con camarones",
         "Sopa de coli",
-        "Bandeja paisa"
+        "Bandeja paisa",
+        "Sudado de pollo",
+        "Asado en freidora (carne, pollo, chunchullo, chicharron, chorizo)"
     ]
 }

@@ -7,5 +7,5 @@ class FabricaPlatoCompleto(Fabrica):
 
 
     def crearPlato(self) -> Plato:
-        print('fabricando plato completo')
+        print('-----fabricando plato completo-----')
         return PlatoCompleto()

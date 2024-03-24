@@ -8,11 +8,10 @@ class Main:
 
     def generarProgramacionDeComidas(self):
         cantidadPlatos = 15
-        listaPlatos = []
 
         for _ in range(cantidadPlatos):
             plato: Plato = None
-            
+
             if random.randint(1,100) > 70:
                 platoCompleto: Fabrica = FabricaPlatoCompleto()
                 plato = platoCompleto.crearPlato()
